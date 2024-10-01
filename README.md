@@ -1,3 +1,3 @@
 # 1st-repository
 this is my repository<br>
-author - RUPAM PAL
+author - RUPAM(PAl)
